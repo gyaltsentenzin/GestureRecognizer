@@ -6,13 +6,6 @@ For this homework assignment, you will practice using data structures to impleme
 # Introduction
 This mini project was done as part of the data structure courseworks
 
-### Due Dates
-This homework will have three milestones:
-
-* Part 1: For this milestone, you should answer the Part 1 Questions below. Submit your answers on the Moodle assignment that corresponds with this homework.
-* Part 2: For this milestone you should commit and push the code to allow a user to draw a gesture. The gesture does not need to be recognized at this point.
-* Part 3: For this milestone you should commit and push the completed assignment that allows users to add templates and recognize gestures. The test files should pass.
-
 ### Part 1 Questions
 
 The algorithm you will implement is called the $1 Gesture recognizer. Start by reading the [research paper](./res/1dollar.pdf) describing the algorithm which was published at the User Interface Software and Technology (UIST) Symposium in 2007.
